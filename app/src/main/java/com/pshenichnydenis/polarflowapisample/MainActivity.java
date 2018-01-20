@@ -1,4 +1,4 @@
-package com.pshenichnydenis.polarflowapi;
+package com.pshenichnydenis.polarflowapisample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

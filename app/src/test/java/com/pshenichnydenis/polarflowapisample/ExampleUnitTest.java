@@ -1,4 +1,4 @@
-package com.pshenichnydenis.lib;
+package com.pshenichnydenis.polarflowapisample;
 
 import org.junit.Test;
 

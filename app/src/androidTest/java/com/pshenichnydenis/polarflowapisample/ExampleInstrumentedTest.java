@@ -1,4 +1,4 @@
-package com.pshenichnydenis.lib;
+package com.pshenichnydenis.polarflowapisample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.pshenichnydenis.lib.test", appContext.getPackageName());
+        assertEquals("com.pshenichnydenis.polarflowapisample", appContext.getPackageName());
     }
 }
